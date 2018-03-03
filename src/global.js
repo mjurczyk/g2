@@ -8,7 +8,7 @@ const Theme = require('./theme/index');
 // const Global = {};
 const Global = {
   version: '____G2_VERSION____',
-  trackable: true,
+  // trackable: true,
   animate: true,
   snapArray: [ 0, 1, 2, 4, 5, 10 ],
   // 指定固定 tick 数的逼近值
